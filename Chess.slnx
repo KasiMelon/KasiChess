@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Chess.Core/Chess.Core.csproj" />
+    <Project Path="src/Chess.UI/Chess.UI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Chess.Tests/Chess.Tests.csproj" />
+  </Folder>
+</Solution>
